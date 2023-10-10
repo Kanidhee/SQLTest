@@ -1,0 +1,3 @@
+select id,name,product from Customer;
+
+create table test(int number(10),name varchar2(10))
